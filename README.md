@@ -1,4 +1,4 @@
-# forReserchSource
+# forReserchUse
 
 大学院での研究で用いていたMATLABのスクリプトファイルです。
 
